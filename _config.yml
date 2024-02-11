@@ -1,0 +1,7 @@
+repository: gnpivo/github-pages
+title: github-pages
+author: Gabriel Nick Pivovarov
+description: A Docker image for mocking GitHub Pages
+theme: minima
+titles_from_headings:
+  strip_title: true
